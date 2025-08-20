@@ -1,0 +1,27 @@
+name: maa_ke_hath_ka_khana
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # compliSDK: ^1.2.3
+  
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  get: ^4.6.6
+  fluttertoast: ^8.2.6
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
