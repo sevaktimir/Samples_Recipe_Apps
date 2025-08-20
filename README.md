@@ -18,5 +18,5 @@ This app allows users to browse, search, and view recipes with an easy-to-use in
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)
 - **Framework:** Material Design Widgets
-- **State Management:** setState / Provider / Riverpod
+- **State Management:** setState
 - **Backend / Data Source:** Google's Firebase
